@@ -1,0 +1,14 @@
+# user 12 S3RHS32.20-42-13-3-6-6 f5b35 release-keys
+- manufacturer: motorola
+- platform: mt6765
+- codename: ellis
+- flavor: user
+- release: 12
+- id: S3RHS32.20-42-13-3-6-6
+- incremental: f5b35
+- tags: release-keys
+- fingerprint: motorola/ellis_retail/ellis:12/S3RHS32.20-42-13-3-6-6/f5b35:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-12-S3RHS32.20-42-13-3-6-6-f5b35-release-keys
+- repo: motorola_ellis_dump

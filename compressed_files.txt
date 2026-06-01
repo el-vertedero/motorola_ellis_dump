@@ -1,0 +1,3 @@
+product/priv-app/MotCamera4/MotCamera4.apk.zst
+product/priv-app/GmsCore/GmsCore.apk.zst
+product/priv-app/Velvet/Velvet.apk.zst
